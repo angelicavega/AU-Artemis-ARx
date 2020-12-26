@@ -2,7 +2,7 @@
 //  Artemis_ARxUITests.swift
 //  Artemis-ARxUITests
 //
-//  Created by Angelica Vega-Aponte on 12/25/20.
+//  Created by Angélica Vega Aponte on 12/25/20.
 //
 
 import XCTest
